@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PrajwalGpy/AmazonDB-SQL-/main/amazon-logo.png" alt="Amazon Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/PrajwalGpy/AmazonDB-SQL-/main/amazon-logo.png" alt="Amazon Logo" >
 </div>
 
 # Amazon USA Sales Analysis - Advanced SQL Project
@@ -563,3 +563,4 @@ The dataset consists of 9 files representing the Amazon ecosystem.
 ---
 
 _Note: This dataset is for educational purposes and contains synthetic data simulating real-world e-commerce scenarios._
+
